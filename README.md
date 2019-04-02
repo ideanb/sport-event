@@ -13,5 +13,3 @@
 
 ### Run emulator
 1. Run emulator with instructions you sent `python emulator.py`
-
-Note: Environemt file is in the repository intencionally (I know it should not be there).
