@@ -1,4 +1,55 @@
 body {
   padding: 0;
-  background-color: #3D403A;
+  background-color: white;
+  background-image: url(fondo.svg);
+  background-size: cover;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.main {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.logo {
+  flex-basis: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.logo img {
+  flex-basis: 25%;
+}
+
+.captureList {
+  flex-basis: 50%;
+  margin-top: 10px;
+  border: solid #e8e8e8 1px;
+  border-collapse: collapse;
+}
+
+.captureList thead tr th {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.captureList thead tr th {
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.captureList tbody tr {
+  background-color: #ffffff;
+}
+
+.captureList tbody tr:nth-child(2n + 1) {
+  background-color: #e8e8e8;
+}
+
+.captureList tbody tr td {
+  text-align: center;
+  padding: 20px;
+  font-size: 16px;
 }

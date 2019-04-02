@@ -1,0 +1,33 @@
+<svg version="1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" width="597" height="228">
+  <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="191" y1="34" x2="194" y2="113">
+    <stop offset="0" stop-color="#5BC5C7"/>
+    <stop offset="1" stop-color="#5475B9"/>
+  </linearGradient>
+  <path fill="url(#SVGID_1_)" d="M202 81l-14-21-5-1v22h-10V30a227 227 0 0 0 14-1c13 0 20 5 20 15 0 3-1 6-3 8-2 3-4 5-7 6l15 23h-10zm-19-43v14h3l9-2c2-1 2-3 2-6l-2-5-9-2-3 1z"/>
+  <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="232" y1="33" x2="235" y2="111">
+    <stop offset="0" stop-color="#5BC5C7"/>
+    <stop offset="1" stop-color="#5475B9"/>
+  </linearGradient>
+  <path fill="url(#SVGID_2_)" d="M246 81l-3-11h-18l-3 11h-10l20-52h4l20 52h-10zm-12-36l-6 18h12l-6-18z"/>
+  <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="269" y1="31" x2="273" y2="110">
+    <stop offset="0" stop-color="#5BC5C7"/>
+    <stop offset="1" stop-color="#5475B9"/>
+  </linearGradient>
+  <path fill="url(#SVGID_3_)" d="M289 33l-4 7c-2-2-5-3-10-3-4 0-8 2-10 5-3 4-4 8-4 14 0 5 1 9 3 13 3 3 6 4 11 4 4 0 8-1 11-5l4 8c-4 4-9 5-16 5s-13-2-17-7c-4-4-6-11-6-19 0-7 3-13 7-18 4-6 10-8 17-8 5 0 10 1 14 4z"/>
+  <linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="308" y1="30" x2="311" y2="108">
+    <stop offset="0" stop-color="#5BC5C7"/>
+    <stop offset="1" stop-color="#5475B9"/>
+  </linearGradient>
+  <path fill="url(#SVGID_4_)" d="M302 38v12h16v7h-16v16h23v8h-33V30h33v8h-23z"/>
+  <linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="368" y1="27" x2="371" y2="106">
+    <stop offset="0" stop-color="#5BC5C7"/>
+    <stop offset="1" stop-color="#5475B9"/>
+  </linearGradient>
+  <path fill="url(#SVGID_5_)" d="M372 38v43h-9V38h-16v-8h42v8h-17z"/>
+  <linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="408" y1="26" x2="411" y2="104">
+    <stop offset="0" stop-color="#5BC5C7"/>
+    <stop offset="1" stop-color="#5475B9"/>
+  </linearGradient>
+  <path fill="url(#SVGID_6_)" d="M387 55c0-7 2-14 6-19s9-7 15-7c8 0 13 2 17 7 4 4 6 11 6 19s-2 14-6 19-10 7-17 7-12-2-16-7-5-11-5-19zm9 0c0 6 1 10 3 14 2 3 5 4 9 4s8-1 10-4c2-4 4-8 4-14 0-12-5-18-14-18-4 0-7 2-9 5s-3 7-3 13z"/>
+  <path d="M96 108v21h30v14H96v28h42v15H79V93h59v15H96zM141 181l6-15c6 5 13 7 19 7 10 0 14-4 14-10l-3-9c-2-3-7-6-14-10s-12-6-15-9l-5-8c-2-3-2-7-2-11 0-7 2-13 8-17 5-5 12-7 20-7 11 0 19 2 24 6l-5 14c-6-4-12-6-19-6-4 0-7 1-9 3s-3 4-3 7c0 6 6 11 18 17l13 8 7 9 2 12c0 7-3 13-9 18s-14 8-24 8c-9 0-16-3-23-7zM241 108v78h-16v-78h-30V93h77v15h-31zM266 139c0-14 4-25 11-34s17-14 29-14c13 0 23 5 31 13 7 8 10 20 10 35s-4 27-11 35c-7 9-18 14-31 14s-22-5-29-14c-7-8-10-20-10-35zm17 0c0 11 2 19 6 25 3 6 9 9 16 9 8 0 14-3 18-9 5-6 7-14 7-25 0-22-8-33-24-33-7 0-13 3-17 9s-6 14-6 24zM412 187l-46-59v58h-15V93h8l43 56V93h16v94h-6zM423 186V93h17v93h-17zM505 186l-6-19h-32l-7 19h-18l37-94h7l38 94h-19zm-22-66l-11 34h22l-11-34zM33 45h129v5H33zM443 45h129v5H443z"/>
+</svg>

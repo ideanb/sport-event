@@ -4,6 +4,7 @@ import { suscribeReaders, suscribeCaptures } from '../../api';
 import useActions from '../../state/actions';
 import { useGlobalState } from '../../state';
 import './App.css';
+import logo from './logo.svg';
 
 const App = () => {
   const actions = useActions();
@@ -51,6 +52,14 @@ const App = () => {
     }
   };
 
+  const renderBlankState = () => {
+    return (
+      <tr>
+        <td colspan="3">Waiting for captures</td>
+      </tr>
+    );
+  };
+
   const renderBody = () => {
     const captureList = state.captures.map(capture => {
       const { athlete = {}, captured } = capture;
@@ -73,7 +82,10 @@ const App = () => {
 
   return (
     <div className="main">
-      <table>
+      <div className="logo">
+        <img src={logo} alt="logo" />
+      </div>
+      <table className="captureList">
         <thead>
           <tr>
             <th>No.</th>
@@ -81,7 +93,7 @@ const App = () => {
             <th>Time</th>
           </tr>
         </thead>
-        <tbody>{renderBody()}</tbody>
+        <tbody>{!state.captures.length ? renderBlankState() : renderBody()}</tbody>
       </table>
     </div>
   );

@@ -1,0 +1,13 @@
+<svg version="1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" width="1024" height="768">
+  <path fill="#F7F7F7" d="M-1 1h1024v768H-1z"/>
+  <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1011" y1="1285" x2="1517" y2="1285" gradientTransform="rotate(-88 733 1189)">
+    <stop offset="0" stop-color="#5BC5C7"/>
+    <stop offset="1" stop-color="#5475B9"/>
+  </linearGradient>
+  <path fill="url(#SVGID_1_)" d="M1024 419c-78-22-173 11-204 85-10 25-13 53-27 75-27 43-86 57-114 100a94 94 0 0 0-7 88h352V419z"/>
+  <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="1562" y1="516" x2="1913" y2="516" gradientTransform="rotate(92 1144 -488)">
+    <stop offset="0" stop-color="#5BC5C7"/>
+    <stop offset="1" stop-color="#5475B9"/>
+  </linearGradient>
+  <path fill="url(#SVGID_2_)" d="M0 243c54 15 120-8 141-60 7-17 9-36 19-52 18-30 59-40 79-69 11-18 13-42 5-61H0v242z"/>
+</svg>
